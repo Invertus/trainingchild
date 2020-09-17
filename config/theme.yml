@@ -1,0 +1,6 @@
+name: trainingchild
+display_name: Child theme of training theme
+version: 1.0.0
+parent: training
+assets:
+    use_parent_assets: true
